@@ -1,2 +1,2 @@
 # Movie-recommendation
-Movie recommendation system
+I performed collaborative filtering using Singular Value Decomposition (SVD) on a movie recommendation dataset. It computes the cosine similarity between a new user's ratings and the ratings of existing users, identifies the neighbors with the highest similarity, and recommends movies based on their ratings. The recommendations are provided for a specified number of neighbors and movies.
